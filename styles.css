@@ -1,0 +1,63 @@
+body {
+    background-color: #000;
+    color: #0F0;
+    font-family: "Courier New", monospace;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 30px;
+    color: #0F0;
+    margin-top: 30px;
+  }
+  
+  #game-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  #game-canvas {
+    background-color: #000;
+    border: 2px solid #0F0;
+    margin-top: 20px;
+  }
+  
+  #score-display {
+    margin-top: 20px;
+    font-size: 20px;
+  }
+  
+  #reset-button {
+    margin-top: 20px;
+    background-color: #0F0;
+    color: #000;
+    font-size: 18px;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  #reset-button:hover {
+    background-color: #000;
+    color: #0F0;
+  }
+  
+  /* Game-specific styles */
+  /* Customize the styles to achieve a cyberpunk theme */
+  
+  #game-canvas {
+    box-shadow: 0px 0px 20px 0px #0F0;
+  }
+  
+  #score-display {
+    color: #0F0;
+  }
+  
+  #reset-button {
+    background-color: #0F0;
+    color: #000;
+    box-shadow: 0px 0px 10px 0px #0F0;
+  }
+  
