@@ -1,6 +1,6 @@
 # Pac-Man Puzzle Game
 
-![Pac-Man]([https://media.giphy.com/media/xT5LMPAbLsUgKqZwmw/giphy.gif](https://media.giphy.com/media/lUZfOjYTyqUBW/giphy.gif))
+![Pac-Man](pacman.gif)
 
 ## Description
 Welcome to the Pac-Man Puzzle Game! This is a simple puzzle game inspired by the classic Pac-Man game. Your goal is to control Pac-Man and collect all the dots on the map while avoiding the walls. The game keeps track of your score as you collect the dots. Be careful not to collide with the walls, or you'll lose points. Complete all the levels to become a Pac-Man master!
@@ -15,7 +15,7 @@ Welcome to the Pac-Man Puzzle Game! This is a simple puzzle game inspired by the
 - Click the "Reset" button to start a new game.
 
 ## Game Preview
-![Game Preview]([https://media.giphy.com/media/WPVKBGZYiIdSU/giphy.gif])
+![Game Preview](game.gif)
 
 ## Getting Started
 1. Clone this repository: `git clone https://github.com/your-username/pacman-puzzle-game.git`
